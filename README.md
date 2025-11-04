@@ -1,6 +1,5 @@
-# Welcome to your  project
-
-**Use your preferred IDE**
+**Welcome to my project**
+Use your preferred IDE
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
